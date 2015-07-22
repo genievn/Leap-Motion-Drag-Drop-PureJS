@@ -1,0 +1,41 @@
+.centerImageLayout{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -250px;
+  margin-left: -250px;
+}
+
+.shadow{
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.dropZones{
+  position: absolute;
+  background-color: black;
+  opacity: 0.5;
+  margin: 0;
+}
+
+.up{
+  width: 95%;
+  height:50px
+}
+
+.left{
+  width:50px;
+  height: 100%;
+  float: left;
+}
+
+.right{
+  width: 50px;
+  height: 100%;
+  left: 95%
+}
+
+#body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
